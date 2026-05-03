@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "505214480315",
+    "firebase_url": "https://vibeflick-5fe5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vibeflick-5fe5c",
+    "storage_bucket": "vibeflick-5fe5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505214480315:android:ffc204b98297f5877a5e9e",
+        "android_client_info": {
+          "package_name": "com.avishka.vibeflick.my_vibe_flick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505214480315-ki2fonj2ir498atvok44f9gp2gpui28v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avishka.vibeflick.my_vibe_flick",
+            "certificate_hash": "f05776cef203e8cd53b74b044cd461d74c5aaebf"
+          }
+        },
+        {
+          "client_id": "505214480315-4qfh2l2arp5gvnqc9jk5bln577tl1euv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcosMEmB-edmS0fQFbELvYc3v6eU8UPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505214480315-12p7iboe1bc8mnea88bss04q10r4c5dr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505214480315-jvv1gp5nb1lorrsn3lv069k3jok2c046.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.avishka.vibeflick.myVibeFlick"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505214480315:android:4771188778f945e97a5e9e",
+        "android_client_info": {
+          "package_name": "com.businessdilshan1.MyNewApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505214480315-4qfh2l2arp5gvnqc9jk5bln577tl1euv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcosMEmB-edmS0fQFbELvYc3v6eU8UPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505214480315-12p7iboe1bc8mnea88bss04q10r4c5dr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505214480315-jvv1gp5nb1lorrsn3lv069k3jok2c046.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.avishka.vibeflick.myVibeFlick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
